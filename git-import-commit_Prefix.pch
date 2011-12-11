@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'git-import-commit' target in the 'git-import-commit' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
