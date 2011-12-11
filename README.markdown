@@ -30,7 +30,7 @@ All that said, you probably won't ever need this tool unless you're up against a
 
 ### Dependancies
 
-git-import-commit relies on libgit2, which is included as a fake submodule.
+git-import-commit relies on libgit2, which is included as a submodule.
 
 ### FIXME
 
